@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "diatoz",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
